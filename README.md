@@ -1,6 +1,10 @@
-# IBM DevOps and Software Engineering Professional Certificate
+# **Archival Notice:**
 
-## **Note:** I have moved to zettelkasten note taking method, and this repo will no longer be updated. Currently, I'm not sharing my zettelkasten vault publicly.
+I have archived this repo and moved all my notes (new and old) to [wiki.cyberfront.me](https://wiki.cyberfront.me)
+
+![image](https://github.com/user-attachments/assets/49ede395-d2f6-432d-89b7-fc3de4806023)
+
+# IBM DevOps and Software Engineering Professional Certificate
 
 These are my notes of 14 courses, I took on Coursera, on **'IBM DevOps and Software Engineering Professional Certificate'**
 
